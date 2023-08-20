@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 :fire: Wanderers 😄
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=name1e5s&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cowboy-Spike-Spiegel&show_icons=true)
