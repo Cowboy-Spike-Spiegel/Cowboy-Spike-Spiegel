@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 :heart: Programming | :blue_heart: Music, Sports, Painting, Anime, Games
 
-:fire: Wanderers 😄
+:fire: Blockchain 😄
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cowboy-Spike-Spiegel&show_icons=true)
