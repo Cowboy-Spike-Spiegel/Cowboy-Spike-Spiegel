@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 :fire: Blockchain 😄
 
+#### Start researching, thus trans to ![Spike020618](https://github.com/Spike020618)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cowboy-Spike-Spiegel&show_icons=true)
